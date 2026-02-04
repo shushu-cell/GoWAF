@@ -1,0 +1,4 @@
+gowaf
+*.exe
+*.out
+.DS_Store
